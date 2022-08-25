@@ -10,13 +10,15 @@
   </head>
   <body>
 		<div id="canvas">
-			<!-- Grid goes here -->
+			<div id="grid">
+				<!-- Grid goes here -->
+			</div>
 		</div>
 		<div id="sidebar">
 			<div class="slidecontainer">
-				<h2>Grid size</h2>
-				<input type="range" min="2" max="100" value="16" class="slider" id="grid-size">
-				<p>16</p>
+				<p><b>Resolution</b></p>
+				<input type="range" min="2" max="100" value="90" class="slider" id="grid-size">
+				<p id="small">0</p>
 			</div>
 			<button id="clear">Clear grid</button>
 		</div>
