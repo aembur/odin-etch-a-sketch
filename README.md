@@ -1,2 +1,2 @@
 # Odin Etch-a-Sketch
-This is a project from [https://www.theodinproject.com/](The Odin Project) online course.
+This is a project from [The Odin Project](https://www.theodinproject.com) online course.
